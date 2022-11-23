@@ -1,3 +1,5 @@
+PowerX is React full frontend project with stripe and emailjs intrigation
+
 ## Install project
 
 In the project directory, you can run:
